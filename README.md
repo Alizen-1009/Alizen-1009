@@ -1,4 +1,3 @@
-# Hi, I'm @Alizen-1009
 
 - 👋 Hi, I'm Yuhao Zhang.
 - 👀 I'm interested in LLM serving infrastructure and inference acceleration.
@@ -7,11 +6,3 @@
 - 📫 Email: yuhao_zh@buaa.edu.cn
 - 🧭 Portfolio: https://Alizen-1009.github.io
 
-## Selected Projects
-
-- [Parallax](https://github.com/GradientHQ/parallax): Distributed LLM inference framework.
-- [Shapley-Moe](https://github.com/Alizen-1009/Shapley-Moe): MoE expert pruning with Shapley-value-inspired expert contribution estimation.
-
-## Tech Stack
-
-C++ / Python / CUDA / AscendC / Triton / vLLM / LLM Serving
