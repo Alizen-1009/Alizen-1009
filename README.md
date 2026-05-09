@@ -1,6 +1,6 @@
 # Hi, I'm @Alizen-1009
 
-- 👋 Hi, I'm Yuhao Zhang / 张宇豪.
+- 👋 Hi, I'm Yuhao Zhang.
 - 👀 I'm interested in LLM serving infrastructure and inference acceleration.
 - 🌱 My current work focuses on CUDA, AscendC, Paged KV Cache, and distributed LLM inference.
 - 💞️ I'm looking for summer internship opportunities in LLM Infra / AI Systems.
